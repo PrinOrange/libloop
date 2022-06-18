@@ -1,5 +1,5 @@
 # vscode cache
-/.vscode/
+.vscode/
 
 # compiler out path
-/out/
+out/
